@@ -8,7 +8,8 @@
 # Author: Frans Schartau
 # Last Update: 2025-01-01
 
-echo "Välkommen till mitt RECON script för att kontrollera en Linux-miljö"
+
+echo "Välkommen till RECON script för att kontrollera en Linux-miljö"
 
 echo
 echo "=== SYSTEMINFO ==="
@@ -29,6 +30,5 @@ ip a | grep inet
 echo
 echo "=== LÄGG TILL FLERA TESTER  ==="
 
-#
-# skriv in dina kommandon för tester
-#
+# skriv in dina egna kommandon för tester
+
